@@ -94,9 +94,5 @@
                 android:layout_height="wrap_content"
                 android:text="Low" />
         </RadioGroup>
-
-
     </RelativeLayout>
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>

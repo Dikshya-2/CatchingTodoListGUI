@@ -50,6 +50,7 @@ public class CreateTodoActivity extends AppCompatActivity {
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
+                todoItem.setTasktype(null);
 
             }
         });

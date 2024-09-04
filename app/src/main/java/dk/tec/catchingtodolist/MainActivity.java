@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
+
         button= findViewById(R.id.button);
 
         button.setOnClickListener(new View.OnClickListener() {
